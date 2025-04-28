@@ -3,12 +3,12 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/MatthewThompsonIT/post-install-config)
+  - [osTicket: Prerequisites and Installation](https://github.com/MatthewThompsonIT/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/MatthewThompsonIT/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/MatthewThompsonIT/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/MatthewThompsonIT/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MatthewThompsonIT/post-install-config)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MatthewThompsonIT/post-install-config)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MatthewThompsonIT/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MatthewThompsonIT/azure-network)
 
 <h3>🎮 Video Game Development:</h3>
 
