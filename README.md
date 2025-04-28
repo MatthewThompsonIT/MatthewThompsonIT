@@ -13,8 +13,8 @@
 <h3>🎮 Video Game Development:</h3>
 
 - <b>Creating a VR World for CPCC's SGD Department</b>
-  - [Creating Movement](https://github.com/MatthewThompsonIT/post-install-config)
-  - [Creating the Hands](https://github.com/MatthewThompsonIT/post-install-config)
+  - [Creating Movement](https://github.com/MatthewThompsonIT/creating-movement)
+  - [Creating the Hands](https://github.com/MatthewThompsonIT/creating-hands)
 
 <h4>🤳Connect with me:</h4>
 
