@@ -9,6 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MatthewThompsonIT/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MatthewThompsonIT/azure-network-protocols)
+  - [Creating Azure VMs and Resource Groups](https://github.com/MatthewThompsonIT/creating-virtual-machines)
 
 <h3>🎮 Video Game Development:</h3>
 
