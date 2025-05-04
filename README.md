@@ -4,19 +4,19 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/MatthewThompsonIT/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/MatthewThompsonIT/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/MatthewThompsonIT/ticket-lifecycle)
+  - [osTicket: Post-Installation Configuration(WIP)](https://github.com/MatthewThompsonIT/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples(WIP)](https://github.com/MatthewThompsonIT/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Creating Azure VMs and Resource Groups](https://github.com/MatthewThompsonIT/creating-virtual-machines)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MatthewThompsonIT/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs(WIP)](https://github.com/MatthewThompsonIT/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MatthewThompsonIT/azure-network-protocols)
   
 
 <h2>🎮 Video Game Development:</h2>
 
 - <b>Creating a VR World for CPCC's SGD Department</b>
-  - [Creating Movement](https://github.com/MatthewThompsonIT/creating-movement)
-  - [Creating the Hands](https://github.com/MatthewThompsonIT/creating-hands)
+  - [Creating Movement(WIP)](https://github.com/MatthewThompsonIT/creating-movement)
+  - [Creating the Hands(WIP)](https://github.com/MatthewThompsonIT/creating-hands)
 
 <h2>🤳Connect with me:</h2>
 
