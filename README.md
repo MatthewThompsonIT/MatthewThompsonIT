@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/MatthewThompsonIT/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration(WIP)](https://github.com/MatthewThompsonIT/post-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/MatthewThompsonIT/post-install-config)
   - [osTicket: Ticket Lifecycle Examples(WIP)](https://github.com/MatthewThompsonIT/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Creating Azure VMs and Resource Groups](https://github.com/MatthewThompsonIT/creating-virtual-machines)
